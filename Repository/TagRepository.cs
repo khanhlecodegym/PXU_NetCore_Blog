@@ -16,29 +16,29 @@ namespace WebApplication1.Repository
             appDbContext = _appDbContext;
         }
 
-        public void Delete(Tag post)
+        public void Delete(Tag tag)
         {
-            throw new NotImplementedException();
+            appDbContext.Remove(tag);
         }
 
         public List<Tag> GetAll()
         {
-            throw new NotImplementedException();
+            return appDbContext.Tags.ToList();
         }
 
         public Tag GetById(int id)
         {
-            throw new NotImplementedException();
+            return appDbContext.Tags.FirstOrDefault(p => p.Id == id);
         }
 
-        public void Insert(Tag post)
+        public void Insert(Tag tag)
         {
-            throw new NotImplementedException();
+            appDbContext.Add(tag);
         }
 
-        public void Update(Tag post)
+        public void Update(Tag tag)
         {
-            throw new NotImplementedException();
+            appDbContext.Update(tag);
         }
     }
 }

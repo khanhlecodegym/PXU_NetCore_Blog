@@ -9,36 +9,36 @@ namespace WebApplication1.Repository
 {
     public class PostRepository : IPost
     {
-        private readonly AppDbContext appDbContex;
+        private readonly AppDbContext appDbContext;
 
         public PostRepository(AppDbContext _appDbContex)
         {
-            appDbContex = _appDbContex;
+            appDbContext = _appDbContex;
         }
 
         public void Delete(Post post)
         {
-            appDbContex.Remove(post);
+            appDbContext.Remove(post);
         }
 
         public List<Post> GetAll()
         {
-            return appDbContex.Posts.ToList();
+            return appDbContext.Posts.ToList();
         }
 
         public Post GetById(int id)
         {
-            return appDbContex.Posts.FirstOrDefault(p => p.Id == id);
+            return appDbContext.Posts.FirstOrDefault(p => p.Id == id);
         }
 
         public void Insert(Post post)
         {
-            appDbContex.Add(post);
+            appDbContext.Add(post);
         }
 
         public void Update(Post post)
         {
-            appDbContex.Update(post);
+            appDbContext.Update(post);
         }
     }
 }

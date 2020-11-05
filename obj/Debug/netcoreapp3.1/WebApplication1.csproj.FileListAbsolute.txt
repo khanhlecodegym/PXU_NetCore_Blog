@@ -393,12 +393,8 @@ E:\CodeGym\C#\blogMVC\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\n
 E:\CodeGym\C#\blogMVC\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\CodeGym\C#\blogMVC\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\CodeGym\C#\blogMVC\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
-E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
-E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
-E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
@@ -420,3 +416,10 @@ E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\We
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\CodeGym\C#\blogMVC\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Tag\Create.cshtml.g.cs
+E:\CodeGym\C#\blogMVC\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Tag\Index.cshtml.g.cs

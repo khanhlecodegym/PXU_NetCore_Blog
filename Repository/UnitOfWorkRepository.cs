@@ -38,7 +38,7 @@ namespace WebApplication1.Repository
 
         public void Save()
         {
-            throw new NotImplementedException();
+            appDbContext.SaveChanges();
         }
     }
 }
